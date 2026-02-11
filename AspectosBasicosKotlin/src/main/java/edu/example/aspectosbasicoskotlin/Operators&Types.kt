@@ -1,7 +1,7 @@
 package edu.example.aspectosbasicoskotlin
 
 fun main() {
-
+    //corregido
     println("=== STEP 1: Numeric operators ===")
 
     println(1 + 1)
