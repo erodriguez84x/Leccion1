@@ -1,4 +1,4 @@
-package edu.example.lesson1
+package edu.example.aspectosbasicoskotlin
 
 fun main() {
 
