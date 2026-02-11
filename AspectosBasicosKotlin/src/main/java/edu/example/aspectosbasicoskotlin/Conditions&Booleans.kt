@@ -25,7 +25,7 @@ fun main() {
         println("That's a lot of fish!")
     }
 
-    // estructura when (mas limpia)
+    // estructura when
     when (numberOfFish) {
         0  -> println("Empty tank")
         in 1..39 -> println("Got fish!")
