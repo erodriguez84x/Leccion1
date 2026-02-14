@@ -39,6 +39,7 @@ fun main() {
     }
 }
 
+
 fun esMayorDeEdad(edad: Int): Boolean {
     return edad >= 18
 }
