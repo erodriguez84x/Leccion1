@@ -38,8 +38,6 @@ fun main() {
         println("- $usuario")
     }
 }
-
-
 fun esMayorDeEdad(edad: Int): Boolean {
     return edad >= 18
 }
