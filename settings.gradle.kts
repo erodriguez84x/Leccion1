@@ -26,3 +26,4 @@ include(":RegistroSimpleDeUsuarios")
 include(":Leccion2_Funciones")
 
 include(":Actividad2")
+include(":Leccion3_ClasesObjetos")
