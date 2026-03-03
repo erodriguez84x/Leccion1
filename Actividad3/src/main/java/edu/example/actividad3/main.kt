@@ -5,7 +5,7 @@ fun main() {
 
     //instanciacion
     val libroClasico = Libro("Don Quijote de la Mancha", 1605)
-    val libroModerno = Libro("Cien años de soledad", 1967)
+    val libroModerno = Libro("Cien anios de soledad", 1967)
 
     //herencia y abstracción
     println("Título: ${libroClasico.titulo}")
