@@ -1,4 +1,4 @@
-package example.myapp.decor
+package example.myapp.decoration
 
 enum class Color(val rgb: Int) {
     RED(0xFF0000),
