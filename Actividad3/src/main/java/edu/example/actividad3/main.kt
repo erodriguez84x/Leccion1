@@ -18,6 +18,6 @@ fun main() {
     println("¿El libro '${libroClasico.titulo}' es antiguo? ${libroClasico.esAntiguo()}")
     println("¿El libro '${libroModerno.titulo}' es antiguo? ${libroModerno.esAntiguo()}")
 
-    // Companion Object
+    //companion object
     println("Constante TIPO_RECURSO: ${Libro.TIPO_RECURSO}")
 }
