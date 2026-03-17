@@ -11,7 +11,6 @@ data class Cuidador(
     val aniosExperiencia: Int,
     val especialidad: String
 )
-
 data class Origen(
     val pais: String,
     val region: String,
